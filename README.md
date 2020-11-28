@@ -9,15 +9,26 @@ Test Data
 = 
 ``
 What year is the car: 2007
+
 What is the car make: Scion
+
 Current speed:  5
+
 Current speed:  10
+
 Current speed:  15
+
 Current speed:  20
+
 Current speed:  25
+
 The current speed  after brake:  20
+
 The current speed  after brake:  15
+
 The current speed  after brake:  10
+
 The current speed  after brake:  5
+
 The current speed  after brake:  0
 ``
