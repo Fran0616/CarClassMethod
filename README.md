@@ -3,7 +3,7 @@ This program will ask user to input the year there car was manufactured, and the
 
 Method: 
 =
-A method in OOP is a procedire associeted with a message and an object. An object consists of data and behavior, these comprise an interface, which specefies how the object may be utilized by any of it's various consumers. 
+A method in OOP is a procedure associeted with a message and an object. An object consists of data and behavior, these comprise an interface, which specefies how the object may be utilized by any of it's various consumers. 
 
 Test Data
 = 
